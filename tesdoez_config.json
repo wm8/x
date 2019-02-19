@@ -26,8 +26,6 @@
 				"http://cfg-02.ldoe.kefirgames.ru/static/p73.json"
 			],
 			"platform": [
-				"android",
-				"ios",
 				"amazon"
 			],
 			"udp_checksum_enabled" : true,
@@ -35,11 +33,11 @@
 			"package_id": "zombie.survival.craft.z",
 			"package_id_amazon" :  "zombie.survival.craft.z.am",
 			"version_code": "1.10",
-			"version_sync": "5",
+			"version_sync": "6",
 			"tag": "release_1.10_436",
-			"server_down_ts": 1542272400
+			"server_down_ts": 1550482200
 		},
-		"92": {
+		"104": {
 			"host_urls": [
 				"http://gs-03.ldoe.kefirgames.ru/",
 				"http://gs-04.ldoe.kefirgames.ru/"
@@ -48,75 +46,37 @@
 			"ping_urls": [
 			],
 			"raid_locations_url": [
-				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9_8_1/"
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_10_3_1/"
 			],
 			"ads_lang": [],
 			"ads_lang_ios": [],
 			"reference_urls" : [
-				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat",
-				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat"
+				"http://cfg-01.ldoe.kefirgames.ru/static/r571.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r571.dat"
 			],
 			"sync_reference_urls": [
-				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_19.dat"
-			],
-			"show_patch_note": false,
-			"patch_note_urls": [
-				"http://cfg-01.ldoe.kefirgames.ru/static/p73.json",
-				"http://cfg-02.ldoe.kefirgames.ru/static/p73.json"
-			],
-			"platform": [
-				"android",
-				"ios",
-				"amazon"
-			],
-			"udp_checksum_enabled" : true,
-			"wait_save_time": 3,
-			"package_id": "zombie.survival.craft.z",
-			"package_id_amazon" :  "zombie.survival.craft.z.am",
-			"version_code": "1.10.1",
-			"version_sync": "5",
-			"tag": "release_1.10.1_438",
-			"server_down_ts": 1542272400
-		},
-		"93": {
-			"host_urls": [
-				"http://beta.ldoe.kefirgames.ru"
-			],
-			"time_out" : 10000,
-			"ping_urls": [
-			],
-			"raid_locations_url": [
-				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9_8_1/"
-			],
-			"ads_lang": [],
-			"ads_lang_ios": [],
-			"reference_urls" : [
-				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat",
-				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat"
-			],
-			"sync_reference_urls": [
-				"https://storage.googleapis.com/ldoe-server-builds/beta/references/references_client.dat"
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_21.dat"
 			],
 			"show_patch_note": true,
 			"patch_note_urls": [
-				"http://cfg-01.ldoe.kefirgames.ru/static/p74.json",
-				"http://cfg-02.ldoe.kefirgames.ru/static/p74.json"
+				"http://cfg-01.ldoe.kefirgames.ru/static/p87.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p87.json"
 			],
 			"platform": [
 				"android",
-				"ios",
-				"amazon"
+				"ios"
 			],
 			"udp_checksum_enabled" : true,
 			"wait_save_time": 3,
 			"package_id": "zombie.survival.craft.z",
 			"package_id_amazon" :  "zombie.survival.craft.z.am",
-			"version_code": "1.10.2",
-			"version_sync": "5",
-			"tag": "release_1.10.2_439",
-			"server_down_ts": 1542272400
+			"version_code": "1.11.5",
+			"version_sync": "6",
+			"tag": "release_1.11.5_466",
+			"server_down_ts": 1550482200,
+			"statistics": true
 		},
-		"94": {
+		"108": {
 			"host_urls": [
 				"http://gs-03.ldoe.kefirgames.ru/",
 				"http://gs-04.ldoe.kefirgames.ru/"
@@ -125,35 +85,35 @@
 			"ping_urls": [
 			],
 			"raid_locations_url": [
-				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9_8_1/"
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_10_3_1/"
 			],
 			"ads_lang": [],
 			"ads_lang_ios": [],
 			"reference_urls" : [
-				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat",
-				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat"
+				"http://cfg-01.ldoe.kefirgames.ru/static/r588.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r588.dat"
 			],
 			"sync_reference_urls": [
-				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_20.dat"
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_21.dat"
 			],
 			"show_patch_note": true,
 			"patch_note_urls": [
-				"http://cfg-01.ldoe.kefirgames.ru/static/p74.json",
-				"http://cfg-02.ldoe.kefirgames.ru/static/p74.json"
+				"http://cfg-01.ldoe.kefirgames.ru/static/p90.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p90.json"
 			],
 			"platform": [
 				"android",
-				"ios",
-				"amazon"
+				"ios"
 			],
 			"udp_checksum_enabled" : true,
 			"wait_save_time": 3,
 			"package_id": "zombie.survival.craft.z",
 			"package_id_amazon" :  "zombie.survival.craft.z.am",
-			"version_code": "1.10.2",
-			"version_sync": "5",
-			"tag": "release_1.10.2_440",
-			"server_down_ts": 1542272400
+			"version_code": "1.11.6",
+			"version_sync": "6",
+			"tag": "release_1.11.6_472",
+			"server_down_ts": 1550482200,
+			"statistics": true
 		}
 	}
 }
