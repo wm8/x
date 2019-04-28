@@ -115,5 +115,49 @@
 			"server_down_ts": 1550482200,
 			"statistics": true
 		}
-	}
+	},
+	"119": {
+			"drops_urls": [
+       			"https://twitch-drops.ldoe.kefirgames.ru/api/get_winner"
+      		],
+			"host_urls": [
+				"http://gs-03.ldoe.kefirgames.ru/",
+				"http://gs-04.ldoe.kefirgames.ru/"
+			],
+			"time_out" : 10000,
+			"ping_urls": [
+			],
+			"raid_locations_url": [
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_10_3_1/"
+			],
+			"ads_lang": [],
+			"ads_lang_ios": [],
+			"reference_urls" : [
+				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat",
+				"https://github.com/wm8/x/releases/download/v1.0/rXXX.sdat"
+			],
+			"sync_reference_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client-172-7d227a.dat"
+			],
+			"sync_reference_checksum" : 3394639043,
+			"show_patch_note": true,
+			"patch_note_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/p96.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p96.json"
+			],
+			"platform": [
+				"android",
+				"ios"
+			],
+			"udp_checksum_enabled" : true,
+			"wait_save_time": 3,
+			"package_id": "zlookaut.current.version.private.server",
+			"package_id_amazon" :  "zlookaut.current.version.private.server",
+			"version_code": "1.11.12",
+			"version_sync": "8",
+			"tag": "release_1.11.12_491",
+			"statistics": true,
+			"alpha_version" : false
+		}
+
 }
