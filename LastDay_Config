@@ -1,5 +1,443 @@
 {
   "versions": {
+    "56": {
+      "host_urls": [
+        "ws://games-ldoe-ws1.kefirgames.ru:8080",
+        "ws://games-ldoe-ws2.kefirgames.ru:8080"
+      ],
+      "battle_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/lgoin/",
+        "http://games-ldoe-gs2.kefirgames.ru/lgoin/"
+      ],
+      "main_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/",
+        "http://games-ldoe-gs2.kefirgames.ru/"
+      ],
+      "ping_urls": [
+        "http://46.182.28.188/ldoez_ts_4",
+        "http://95.213.132.37/ldoez_ts_4"
+      ],
+      "raid_locations_url": [
+        "http://46.182.28.188/bases/bases_1_7_9_1/"
+      ],
+      "connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+      "ads_lang": [],
+      "ads_lang_ios": [],
+      "reference_urls": [
+        "http://46.182.28.188/static/r339.dat",
+        "http://95.213.132.37/static/r339.dat"
+      ],
+      "sync_reference_urls": [
+        "http://46.182.28.188/s…_references_client.dat"
+      ],
+      "show_patch_note": true,
+      "patch_note_urls": [
+        "http://46.182.28.188/static/p52.json",
+        "http://95.213.132.37/static/p52.json"
+      ],
+      "platform": [
+        "ios",
+        "android"
+      ],
+      "wait_save_time": 3,
+      "package_id": "zombie.survival.craft.z",
+      "version_code": "1.8.1",
+      "tag": "release_1.8.1",
+      "crc_path": [
+        "/lib/libgpg.so",
+        "/lib/libil2cpp.so",
+        "/lib/libmain.so",
+        "/lib/libunity.so"
+      ],
+      "dsha": [
+        3824280648,
+        1221611221,
+        2498682918,
+        3557798076,
+        810181782,
+        23604080,
+        3442490931,
+        3493968035,
+        1901635802,
+        3910877262,
+        1803467706,
+        854528450,
+        3885318484,
+        2284949313,
+        2344518628,
+        6557978,
+        1200698829,
+        1575321921,
+        751564835,
+        2583776669,
+        4005102823,
+        3478758530,
+        852812191,
+        2570341638,
+        1853739263,
+        934546818,
+        1753861668,
+        2891461879,
+        3488865588,
+        3386033009,
+        2222039445,
+        996565744,
+        1921061767,
+        3596993118,
+        778447367,
+        348278201,
+        2054865929,
+        3624686176,
+        1444495440,
+        1348801076,
+        3824280648,
+        1221611221,
+        2498682918,
+        3557798076,
+        810181782,
+        23604080,
+        3442490931,
+        3493968035,
+        2976244110,
+        2790033483,
+        1884591861,
+        1190037629,
+        1128939651,
+        3771908090,
+        3098015806,
+        2644405042,
+        3961365836,
+        374204515,
+        984751430,
+        2217693686,
+        3910101022,
+        1788253983,
+        1352710656,
+        3508792454,
+        1446941953,
+        3600380540,
+        1969169752,
+        1945432204,
+        4158693749,
+        1210006045,
+        1596056461,
+        2376977150,
+        2645987223,
+        2907192279,
+        3822269585,
+        2541327869,
+        3129247652,
+        4289391439,
+        2214902078,
+        11214515
+      ]
+    },
+    "58": {
+      "host_urls": [
+        "ws://games-ldoe-ws1.kefirgames.ru:8080",
+        "ws://games-ldoe-ws2.kefirgames.ru:8080"
+      ],
+      "battle_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/lgoin/",
+        "http://games-ldoe-gs2.kefirgames.ru/lgoin/"
+      ],
+      "main_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/",
+        "http://games-ldoe-gs2.kefirgames.ru/"
+      ],
+      "ping_urls": [
+        "http://46.182.28.188/ldoez_ts_4",
+        "http://95.213.132.37/ldoez_ts_4"
+      ],
+      "raid_locations_url": [
+        "http://46.182.28.188/bases/bases_1_7_9_1/"
+      ],
+      "connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+      "ads_lang": [],
+      "ads_lang_ios": [],
+      "reference_urls": [
+        "http://46.182.28.188/static/r339.dat",
+        "http://95.213.132.37/static/r339.dat"
+      ],
+      "sync_reference_urls": [
+        "http://46.182.28.188/s…_references_client.dat"
+      ],
+      "show_patch_note": false,
+      "patch_note_urls": [
+        "http://46.182.28.188/static/p52.json",
+        "http://95.213.132.37/static/p52.json"
+      ],
+      "platform": [
+        "android",
+        "ios"
+      ],
+      "wait_save_time": 3,
+      "package_id": "zombie.survival.craft.z",
+      "version_code": "1.8.1",
+      "tag": "release_1.8.1_tech_update",
+      "crc_path": [
+        "/lib/libgpg.so",
+        "/lib/libil2cpp.so",
+        "/lib/libmain.so",
+        "/lib/libunity.so"
+      ],
+      "dsha": [
+        2780526118,
+        3825612915,
+        821187763,
+        48657276,
+        4266919716,
+        2182798702,
+        1108792573,
+        2187271941,
+        1901635802,
+        3910877262,
+        1803467706,
+        854528450,
+        3885318484,
+        2284949313,
+        2344518628,
+        6557978,
+        1050507,
+        2615582357,
+        3554691627,
+        3568969584,
+        790627321,
+        3921976119,
+        1078716936,
+        1602970382,
+        1853739263,
+        934546818,
+        1753861668,
+        2891461879,
+        3488865588,
+        3386033009,
+        2222039445,
+        996565744,
+        1921061767,
+        3596993118,
+        778447367,
+        348278201,
+        2054865929,
+        3624686176,
+        1444495440,
+        1348801076,
+        2780526118,
+        3825612915,
+        821187763,
+        48657276,
+        4266919716,
+        2182798702,
+        1108792573,
+        2187271941,
+        2976244110,
+        2790033483,
+        1884591861,
+        1190037629,
+        1128939651,
+        3771908090,
+        3098015806,
+        2644405042,
+        3540991366,
+        2135974829,
+        3842350626,
+        1301694386,
+        1048187826,
+        493936165,
+        1274012144,
+        4196363589,
+        1446941953,
+        3600380540,
+        1969169752,
+        1945432204,
+        4158693749,
+        1210006045,
+        1596056461,
+        2376977150,
+        2645987223,
+        2907192279,
+        3822269585,
+        2541327869,
+        3129247652,
+        4289391439,
+        2214902078,
+        11214515
+      ]
+    },
+    "59": {
+      "host_urls": [
+        "ws://games-ldoe-ws1.kefirgames.ru:8080",
+        "ws://games-ldoe-ws2.kefirgames.ru:8080"
+      ],
+      "battle_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/lgoin/",
+        "http://games-ldoe-gs2.kefirgames.ru/lgoin/"
+      ],
+      "main_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/",
+        "http://games-ldoe-gs2.kefirgames.ru/"
+      ],
+      "ping_urls": [
+        "http://46.182.28.188/ldoez_ts_4",
+        "http://95.213.132.37/ldoez_ts_4"
+      ],
+      "raid_locations_url": [
+        "http://46.182.28.188/bases/bases_1_7_9_1/"
+      ],
+      "connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+      "ads_lang": [],
+      "ads_lang_ios": [],
+      "reference_urls": [
+        "http://46.182.28.188/static/r339.dat",
+        "http://95.213.132.37/static/r339.dat"
+      ],
+      "sync_reference_urls": [
+        "http://46.182.28.188/s…_references_client.dat"
+      ],
+      "show_patch_note": false,
+      "patch_note_urls": [
+        "http://46.182.28.188/static/p52.json",
+        "http://95.213.132.37/static/p52.json"
+      ],
+      "platform": [
+        "android"
+      ],
+      "wait_save_time": 3,
+      "package_id": "zombie.survival.craft.z",
+      "version_code": "1.8.1",
+      "tag": "release_1.8.1_permissions_19",
+      "crc_path": [
+        "/lib/libgpg.so",
+        "/lib/libil2cpp.so",
+        "/lib/libmain.so",
+        "/lib/libunity.so"
+      ],
+      "dsha": [
+        3894970819,
+        4280581634,
+        3059399004,
+        2273314442,
+        3516208013,
+        3681320867,
+        4170320917,
+        1828340577,
+        1901635802,
+        3910877262,
+        1803467706,
+        854528450,
+        3885318484,
+        2284949313,
+        2344518628,
+        6557978,
+        3269027837,
+        2196614005,
+        891553414,
+        1634178265,
+        3981565965,
+        2432500904,
+        647311940,
+        967943962,
+        1853739263,
+        934546818,
+        1753861668,
+        2891461879,
+        3488865588,
+        3386033009,
+        2222039445,
+        996565744,
+        1921061767,
+        3596993118,
+        778447367,
+        348278201,
+        2054865929,
+        3624686176,
+        1444495440,
+        1348801076,
+        3894970819,
+        4280581634,
+        3059399004,
+        2273314442,
+        3516208013,
+        3681320867,
+        4170320917,
+        1828340577,
+        2976244110,
+        2790033483,
+        1884591861,
+        1190037629,
+        1128939651,
+        3771908090,
+        3098015806,
+        2644405042,
+        3575713968,
+        22691677,
+        1807284649,
+        4178895980,
+        653754614,
+        3069904086,
+        1490501262,
+        2289105612,
+        1446941953,
+        3600380540,
+        1969169752,
+        1945432204,
+        4158693749,
+        1210006045,
+        1596056461,
+        2376977150,
+        2645987223,
+        2907192279,
+        3822269585,
+        2541327869,
+        3129247652,
+        4289391439,
+        2214902078,
+        11214515
+      ]
+    },
+    "60": {
+      "host_urls": [
+        "ws://games-ldoe-ws1.kefirgames.ru:8080",
+        "ws://games-ldoe-ws2.kefirgames.ru:8080"
+      ],
+      "battle_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/lgoin/",
+        "http://games-ldoe-gs2.kefirgames.ru/lgoin/"
+      ],
+      "main_url": [
+        "http://games-ldoe-gs1.kefirgames.ru/",
+        "http://games-ldoe-gs2.kefirgames.ru/"
+      ],
+      "ping_urls": [
+        "http://46.182.28.188/ldoez_ts_4",
+        "http://95.213.132.37/ldoez_ts_4"
+      ],
+      "raid_locations_url": [
+        "http://46.182.28.188/bases/bases_1_7_9_1/"
+      ],
+      "connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+      "ads_lang": [],
+      "ads_lang_ios": [],
+      "reference_urls": [
+        "http://46.182.28.188/static/r337.dat",
+        "http://95.213.132.37/static/r337.dat"
+      ],
+      "sync_reference_urls": [
+        "http://46.182.28.188/s…_references_client.dat"
+      ],
+      "show_patch_note": false,
+      "patch_note_urls": [
+        "http://46.182.28.188/static/p52.json",
+        "http://95.213.132.37/static/p52.json"
+      ],
+      "platform": [
+        "android"
+      ],
+      "wait_save_time": 3,
+      "package_id": "zombie.survival.craft.z",
+      "version_code": "1.8.2",
+      "tag": "release_1.8.2"
+    },
     "91": {
       "host_urls": [
         "http://gs-03.ldoe.kefirgames.ru/",
