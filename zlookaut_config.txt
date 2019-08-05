@@ -154,8 +154,8 @@
 			"sync_reference_checksum" : 3657803634,
 			"show_patch_note": true,
 			"patch_note_urls": [
-				"http://cfg-01.ldoe.kefirgames.ru/static/p105.json",
-				"http://cfg-02.ldoe.kefirgames.ru/static/p105.json"
+				"http://cfg-01.ldoe.kefirgames.ru/static/p107.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p107.json"
 			],
 			"platform": [
 				"ios",
