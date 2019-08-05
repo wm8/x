@@ -166,7 +166,7 @@
 			"wait_save_time": 3,
 			"package_id": "zombie.survival.craft.z",
 			"package_id_amazon" :  "zombie.survival.craft.z.am",
-			"version_code": "1.12.3",
+			"version_code": "1.14",
 			"version_sync": "10",
 			"tag": "release_1.12.3",
 			"statistics": false,
