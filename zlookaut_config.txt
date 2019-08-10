@@ -169,11 +169,11 @@
 			"version_code": "1.14",
 			"version_sync": "10",
 			"tag": "release_1.14",
-			"statistics": true,
+			"statistics": false,
 			"enable_news_dialog" : false,
 			"enable_news_button" : true,
-			"alpha_version" : false,
-			"send_additional_d2d_events": true
+			"alpha_version" : true,
+			"send_additional_d2d_events": false
 		}
 	}
 }
