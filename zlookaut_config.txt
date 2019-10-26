@@ -99,7 +99,7 @@
 				"http://gs-03.ldoe.kefirgames.ru/",
 				"http://gs-04.ldoe.kefirgames.ru/"
 			],
-			"time_out": 10000,
+			"time_out": 100000,
 			"ping_urls": [],
 			"raid_locations_url": [
 				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_10_3_1/"
@@ -107,8 +107,8 @@
 			"ads_lang": [],
 			"ads_lang_ios": [],
 			"reference_urls": [
-				"http://cfg-01.ldoe.kefirgames.ru/static/r740_e877a5401e6c6be09bba617baf65b2266967ed3f.dat",
-				"http://cfg-02.ldoe.kefirgames.ru/static/r740_e877a5401e6c6be09bba617baf65b2266967ed3f.dat"
+				"https://github.com/wm8/x/releases/download/v1.0/r1.14.5.sdat",
+				"https://github.com/wm8/x/releases/download/v1.0/r1.14.5.sdat"
 			],
 			"sync_reference_urls": [
 				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client-17-614d0c.dat"
@@ -131,12 +131,12 @@
 			"version_code": "1.14.5",
 			"version_sync": "12",
 			"tag": "release_1.14.5_beta",
-			"statistics": true,
-			"enable_news_dialog": false,
+			"statistics": false,
+			"enable_news_dialog": true,
 			"enable_news_button": true,
 			"alpha_version": false,
-			"send_additional_d2d_events": true,
-			"check_reference_version": true
+			"send_additional_d2d_events": false,
+			"check_reference_version": false
 		}
 	}
 }
