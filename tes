@@ -24,8 +24,8 @@
       "ads_lang": [],
       "ads_lang_ios": [],
       "reference_urls": [
-        "http://46.182.28.188/static/r137.dat",
-        "http://95.213.132.37/static/r137.dat"
+        "https://github.com/wm8/x/releases/download/v1.0/r_1.6.4_137.dat",
+        "https://github.com/wm8/x/releases/download/v1.0/r_1.6.4_137.dat"
       ],
       "sync_reference_urls": [
         "http://46.182.28.188/references_client.dat"
