@@ -1,6 +1,6 @@
 {
   "versions": {
-    "13": {
+    "14": {
       "host_urls": [
         "ws://games-ldoe-ws1.kefirgames.ru:8080",
         "ws://games-ldoe-ws2.kefirgames.ru:8080"
