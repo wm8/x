@@ -2,8 +2,8 @@
   "versions": {
     "14": {
       "host_urls": [
-        "ws://games-ldoe-ws1.kefirgames.ru:8080",
-        "ws://games-ldoe-ws2.kefirgames.ru:8080"
+        "http://games-ldoe-gs1.kefirgames.ru:8080",
+        "http://games-ldoe-gs1.kefirgames.ru:8080"
       ],
       "battle_url": [
         "http://games-ldoe-gs1.kefirgames.ru/lgoin/",
