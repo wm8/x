@@ -20,11 +20,11 @@
       "connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
       "ads_lang": [],
       "ads_lang_ios": [],
-      "reference_urls_1": [
+      "reference_urls": [
         "http://46.182.28.188/static/r39.dat",
         "http://95.213.132.37/static/r39.dat"
       ],
-      "reference_urls": [
+      "reference_urls_1": [
         "https://github.com/wm8/x/releases/download/v1.0/r_1.5_39.dat",
         "https://github.com/wm8/x/releases/download/v1.0/r_1.5_39.dat"
       ],
